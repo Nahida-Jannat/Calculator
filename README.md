@@ -14,10 +14,11 @@ A simple and elegant calculator app built with Flutter. Perform basic arithmetic
 
 ## 📸 Screenshots
 
+| Home Screen | Entering Numbers | Calculation Result |
+|-------------|------------------|---------------------|
+| ![Home](assets/iages/Screenshot_20260217_111131.png) | ![Input](assets/iages/Screenshot_20260217_111358.png) | ![Result](assets/iages/Screenshot_20260217_111341.png) |
 
-Home Screen	Entering Numbers	Calculation Result
-assets/images/Screenshot_20260217_111131.png	assets/images/Screenshot_20260217_111358.png	assets/images/Screenshot_20260217_111341.png
-
+*Place your own screenshots in the `assets/screenshots/` folder and update the file names if needed.*
 
 ## 🚀 Getting Started
 
