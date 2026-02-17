@@ -14,9 +14,9 @@ A simple and elegant calculator app built with Flutter. Perform basic arithmetic
 
 ## 📸 Screenshots
 
-| Home Screen | Calculation Example                                                                                                     |
-|-------------|-------------------------------------------------------------------------------------------------------------------------|
-| ![Home Screen](assets/images/Screenshot_20260217_111131.png) | ![Calculation](assets/images/Screenshot_20260217_111341.png) [Calculation](assets/images/Screenshot_20260217_111358.png) |
+| Home Screen | Calculation Example                                                                                                      |
+|-------------|------------------------------------------------|--------------------------------------------------------------------------|
+| ![Home Screen](assets/images/Screenshot_20260217_111131.png) | ![Calculation](assets/images/Screenshot_20260217_111341.png) | [Calculation](assets/images/Screenshot_20260217_111358.png) |
 
 
 ## 🚀 Getting Started
