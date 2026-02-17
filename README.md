@@ -1,16 +1,76 @@
-# app_1
+# 📱 Flutter Calculator App
 
-A new Flutter project.
+A simple and elegant calculator app built with Flutter. Perform basic arithmetic operations with a clean, user-friendly interface.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- ➕ Addition, subtraction, multiplication, division
+- 🔙 Backspace button to delete last digit
+- 🧹 Clear button to reset all inputs
+- 🔢 Decimal point support
+- 📱 Responsive layout for various screen sizes
+- 🎨 Material Design 3 with custom button colors
+- ⚡ Real-time calculation display
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Home Screen | Calculation Example                                                                                                     |
+|-------------|-------------------------------------------------------------------------------------------------------------------------|
+| ![Home Screen](assets/images/Screenshot_20260217_111131.png) | ![Calculation](assets/images/Screenshot_20260217_111341.png) [Calculation](assets/images/Screenshot_20260217_111358.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (>=3.0.0)
+- Dart SDK (>=3.0.0)
+- Android Studio / VS Code (optional)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-calculator.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd flutter-calculator
+   ```
+
+3. Get dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## 🎮 Usage
+
+- Tap number buttons (0-9) to enter digits
+- Press operation buttons (+, -, ×, ÷) to select an operation
+- Use decimal point (.) for floating-point numbers
+- Hit equals (=) to see the result
+- Clear (C) resets everything
+- Backspace (⌫) removes the last character
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) - UI toolkit
+- [Dart](https://dart.dev/) - Programming language
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ using Flutter
